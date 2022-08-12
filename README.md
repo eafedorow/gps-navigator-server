@@ -3,5 +3,5 @@
 
 ## Technology stack:
 1. Typescript
-2. Express
-3. Mongoose
+2. Nest
+3. PostgreSQL
